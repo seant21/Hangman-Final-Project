@@ -1,0 +1,8 @@
+The readme needs work...  
+
+type in a word that will be guessed.  
+then you can guess the word.  
+This is best for two players on the same computer
+Resets after playing.  Seven incorrect guesses results in losing the game.
+
+NOTES:  We're looking into the GUI currently, and we need some help on making sure this is modular in the UNIX sense.  This is a rough draft so to speak, and there's plenty of things we want to do, but guidance would be very helpful. 
