@@ -1,0 +1,2 @@
+all:
+	g++ Hangmain.cpp Hangman.cpp Hangman.h -o HangmanGame
